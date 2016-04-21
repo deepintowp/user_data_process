@@ -1,0 +1,28 @@
+/*
+Theme Name: child oftwentytwelve
+Template: twentytwelve
+
+*/
+.frm-heading{text-align:center;
+	font-size:18px;
+	font-style:italic;
+	text-decoration:underline;
+	letter-spacing:2px;
+}
+.my-from{
+	display:block;
+	
+}
+.my-from input, .my-from select, .my-from textarea{
+	width:200px;
+	display:block;
+	margin:20px 200px;
+}
+.my-from input[type="submit"] {
+    width: auto;
+    height: auto;
+    background: rgba(0,0,0, .6);
+    border: 2px solid #795548;
+    Color: #fff;
+    font-size: 18px;
+}
